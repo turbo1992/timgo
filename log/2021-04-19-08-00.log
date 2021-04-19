@@ -1,42 +1,8 @@
-[tim-go]2021/04/19 - 16:26:15.909 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 16:26:15.910 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 16:28:20.037 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 16:28:39.344 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 16:28:39.346 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 16:31:52.133 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 16:31:55.785 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 16:31:55.786 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 16:34:07.512 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 16:34:10.845 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 16:34:10.850 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 16:50:14.821 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 16:50:18.753 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 16:50:18.757 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 16:54:44.884 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 16:54:48.432 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 16:54:48.434 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 16:55:54.798 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 16:55:58.383 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 16:55:58.387 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 17:15:30.841 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 17:15:35.149 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 17:15:35.152 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 17:19:25.064 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 17:19:28.292 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 17:19:28.293 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 17:19:41.035 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 17:19:43.809 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 17:19:43.811 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 17:30:35.708 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 17:30:39.338 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 17:30:39.339 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 17:36:51.644 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 17:36:55.178 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 17:36:55.179 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 17:38:17.869 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 17:38:20.491 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 17:38:20.492 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 17:42:32.229 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
-[tim-go]2021/04/19 - 17:44:29.060 /Users/Turbo/Documents/资料/golang资料/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
-[tim-go]2021/04/19 - 17:44:29.063 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
-[tim-go]2021/04/19 - 17:49:56.287 /Users/Turbo/Documents/资料/golang资料/timgo/core/server.go:26 ▶ [ERROR] accept tcp [::]:8888: use of closed network connection
+[tim-go]2021/04/19 - 18:35:53.743 /Users/Turbo/Documents/GitHub/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
+[tim-go]2021/04/19 - 18:35:53.744 /Users/Turbo/Documents/GitHub/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
+[tim-go]2021/04/19 - 18:35:53.745 /Users/Turbo/Documents/GitHub/timgo/core/server.go:26 ▶ [ERROR] net.Listen error: listen tcp :8888: bind: address already in use
+[tim-go]2021/04/19 - 18:37:00.160 /Users/Turbo/Documents/GitHub/timgo/initialize/db_table.go:17 ▶ [DEBUG] register table success
+[tim-go]2021/04/19 - 18:37:00.161 /Users/Turbo/Documents/GitHub/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :8888
+[tim-go]2021/04/19 - 18:37:00.161 /Users/Turbo/Documents/GitHub/timgo/core/server.go:26 ▶ [ERROR] net.Listen error: listen tcp :8888: bind: address already in use
+[tim-go]2021/04/19 - 18:40:22.251 /Users/Turbo/Documents/GitHub/timgo/initialize/db_table.go:14 ▶ [DEBUG] register table success
+[tim-go]2021/04/19 - 18:40:22.253 /Users/Turbo/Documents/GitHub/timgo/core/server.go:25 ▶ [DEBUG] server run success on  :9999

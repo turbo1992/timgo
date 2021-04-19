@@ -1,7 +1,6 @@
 package main
 
 import (
-	"tim-go/controller"
 	"tim-go/core"
 	"tim-go/global"
 	"tim-go/initialize"
@@ -24,7 +23,7 @@ func main()  {
 	//	fmt.Println("casbin_rule err :", err)
 	//}
 
-	controller.Test()
+	//controller.Test()
 
 	core.RunWindowsServer()
 
