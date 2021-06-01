@@ -18,5 +18,4 @@ const (
 	// 用户状态
 	USER_STATE_NORMAL   	= 1
 	USER_STATE_FORBIDDEN   	= 2
-
 )
