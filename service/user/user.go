@@ -41,6 +41,7 @@ func Login(req userReq.UserInfoReq) (error, userModel.User) {
 
 func GetUserDetail(req userReq.GetUserInfoReq) (error, userModel.User)  {
 	userInfo := userModel.User{}
+	global.GVA_DB.Row()
 	err := global.GVA_DB.Where("id = ?", req.ID).First(&userInfo).Error
 	if err != nil {
 		return errors.New("查询失败"), userInfo
