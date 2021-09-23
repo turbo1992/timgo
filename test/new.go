@@ -7,11 +7,6 @@ type Student struct {
 	Class string
 }
 
-func main()  {
-	fmt.Println("main...")
-
-}
-
 func init()  {
 	//fmt.Println("init new...")
 }
@@ -26,5 +21,4 @@ func TestNew()  {
 	//	Class: "2",
 	//}
 	fmt.Println("s", s)
-	main()
 }
