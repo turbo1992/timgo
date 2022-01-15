@@ -2,7 +2,9 @@ package test
 
 func Run()  {
 	// 并发查询学生信息web
-	TestGetUserInfoWeb()
+	//TestGetUserInfoWeb()
 	// 并发查询学生信息耗时
-	TestGetUserInfoCode()
+	//TestGetUserInfoCode()
+	// 并发锁使用
+	TestMutex()
 }
