@@ -7,6 +7,8 @@ import (
 )
 
 func main()  {
+	//test.Run();return
+
 	switch global.GVA_CONFIG.System.DbType {
 	case "mysql":
 		initialize.Mysql()

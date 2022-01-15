@@ -24,7 +24,7 @@ system:
     use-multipoint: false
     env: 'public'  # Change to "develop" to skip authentication for development mode /public
     addr: 9999
-    log-mode: true
+    log-mode: false
     db-type: "mysql"  # support mysql/sqlite
 
 # captcha configuration
