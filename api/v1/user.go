@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"github.com/gin-gonic/gin"
 	"tim-go/global/response"
-	"tim-go/utils"
 	userReq "tim-go/model/request/user"
 	userSvc "tim-go/service/user"
+	"tim-go/utils"
 )
 
 func Register(c *gin.Context)  {
@@ -80,5 +80,24 @@ func UserDetail(c *gin.Context)  {
 		response.FailWithMessage(fmt.Sprintf("查询失败, %v", err), c)
 	} else {
 		response.OkWithData(userInfo, c)
+	}
+}
+
+func AddUser(c *gin.Context)  {
+	err := userSvc.AddUser()
+	if err != nil {
+		response.FailWithMessage(fmt.Sprintf("添加失败, %v", err), c)
+	} else {
+		response.Ok(c)
+	}
+}
+
+func Find(c *gin.Context)  {
+	err, idList := userSvc.Find()
+	fmt.Println(fmt.Sprintf("%v", idList))
+	if err != nil {
+		response.FailWithMessage(fmt.Sprintf("查询失败, %v", err), c)
+	} else {
+		response.OkWithData(idList, c)
 	}
 }

@@ -23,7 +23,7 @@ mysql:
 system:
     use-multipoint: false
     env: 'public'  # Change to "develop" to skip authentication for development mode /public
-    addr: 9991
+    addr: 9999
     log-mode: true
     db-type: "mysql"  # support mysql/sqlite
 

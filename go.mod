@@ -14,6 +14,7 @@ require (
 	github.com/lestrrat/go-strftime v0.0.0-20180220042222-ba3bf9c1d042 // indirect
 	github.com/op/go-logging v0.0.0-20160315200505-970db520ece7
 	github.com/spf13/viper v1.6.2
+	github.com/streadway/amqp v1.0.0
 )
 
 replace github.com/casbin/gorm-adapter => ./gorm-adapterv1.0.0

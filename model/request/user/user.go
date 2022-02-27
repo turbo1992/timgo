@@ -21,4 +21,5 @@ type GetUserListReq struct {
 type GetUserInfoReq struct {
 	// 用户id
 	ID  	int `json:"id" form:"id"`
+	Name  	string `json:"name" form:"name"`
 }

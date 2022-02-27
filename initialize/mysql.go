@@ -17,6 +17,6 @@ func Mysql() {
 		global.GVA_DB = db
 		global.GVA_DB.DB().SetMaxIdleConns(admin.MaxIdleConns)
 		global.GVA_DB.DB().SetMaxOpenConns(admin.MaxOpenConns)
-		global.GVA_DB.LogMode(true)
+		global.GVA_DB.LogMode(admin.LogMode)
 	}
 }

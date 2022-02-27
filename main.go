@@ -4,9 +4,15 @@ import (
 	"tim-go/core"
 	"tim-go/global"
 	"tim-go/initialize"
+	"tim-go/test/rabbitmq"
 )
 
 func main()  {
+	//test.Run();return
+
+	rabbitmq.Action()
+	return
+
 	switch global.GVA_CONFIG.System.DbType {
 	case "mysql":
 		initialize.Mysql()
